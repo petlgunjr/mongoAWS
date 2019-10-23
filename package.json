@@ -1,0 +1,21 @@
+{
+  "name": "mongolambda",
+  "version": "1.0.0",
+  "description": "DB interation using Mongo",
+  "main": "db.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "serverless": "^1.55.1",
+    "serverless-offline": "^5.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/petlgunjr/mongoAWS.git"
+  },
+  "author": "Peter L Gunter Jr",
+  "license": "ISC"
+}
